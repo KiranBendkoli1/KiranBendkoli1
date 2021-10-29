@@ -11,12 +11,14 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
  ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m Student of **Computer Engineering**
 - 📫 How to reach me: 
-[LinkedIn @KIRAN BENDKOLI](https://www.linkedin.com/in/kiran-bendkoli-2a2b741b9/),Email : kiranbendkoli24@gmail.com
+  - [Portfolio@KiranBendkoli](http://coderays.me/my-porf)
+  - [LinkedIn @KIRAN BENDKOLI](https://www.linkedin.com/in/kiran-bendkoli-2a2b741b9/)
+  - Email : kiranbendkoli24@gmail.com
 
 
 ![List item](https://github-readme-stats.vercel.app/api?username=KiranBendkoli1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
