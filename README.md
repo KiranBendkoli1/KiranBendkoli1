@@ -21,4 +21,10 @@ Here are some ideas to get you started:
   - Email : kiranbendkoli24@gmail.com
 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/KiranBendkoli1?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
+
+<a href="#"/><img alt="TYP Github Status" src="https://github-readme-stats.vercel.app/api?username=KiranBendkoli1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=#220222a"/></a> 
+<br>
+<a href="#"/><img alt="TYP Github Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranBendkoli1&layout=compact&count_private=true&theme=react&hide_border=true&bg_color=20222a" /></a>
+<br>
+<a href="#"/><img alt="TYP Github Status" src="https://github-readme-streak-stats.herokuapp.com/?user=KiranBendkoli1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=20222a" /></a>
+<br>
