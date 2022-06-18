@@ -21,4 +21,4 @@ Here are some ideas to get you started:
   - Email : kiranbendkoli24@gmail.com
 
 
-![List item](https://github-readme-stats.vercel.app/api?username=KiranBendkoli1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/KiranBendkoli1?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
