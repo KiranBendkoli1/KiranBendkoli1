@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m Student of **Computer Engineering**
 - 📫 How to reach me: 
-  - [Portfolio@KiranBendkoli](https://kiranbendkoli-portfolio.web.app/)
+  - [Portfolio@KiranBendkoli](https://portfolio.kiranbendkoli.tech/)
   - [LinkedIn @KIRAN BENDKOLI](https://www.linkedin.com/in/kiran-bendkoli-2a2b741b9/)
   - Email : kiranbendkoli24@gmail.com
 
