@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m Student of **Computer Engineering**
+- 🌱 Software Developer at Winjit
 - 📫 How to reach me: 
   - [Portfolio@KiranBendkoli](https://portfolio.kiranbendkoli.tech/)
   - [LinkedIn @KIRAN BENDKOLI](https://www.linkedin.com/in/kiran-bendkoli-2a2b741b9/)
