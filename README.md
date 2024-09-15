@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 Software Developer at Winjit
 - 📫 How to reach me: 
-  - [Portfolio@KiranBendkoli](https://portfolio.kiranbendkoli.tech/)
+  - [Portfolio@KiranBendkoli](https://kiranbendkoli.dev/)
   - [LinkedIn @KIRAN BENDKOLI](https://www.linkedin.com/in/kiran-bendkoli-2a2b741b9/)
   - Email : kiranbendkoli24@gmail.com
 
